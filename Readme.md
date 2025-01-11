@@ -5,7 +5,5 @@ I made **[Openplanet](https://openplanet.dev/)** and **[Trackmania.io](https://t
 
 You can support me **[on Patreon](https://patreon.com/openplanet)**!
 
----
-
 # I do not have a Twitter account.
 There are some people going around impersonating me. My only real account is on Mastodon at `@codecat@meow.social`.
